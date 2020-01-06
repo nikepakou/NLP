@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T06:35:57.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kqZrdDf4ifAyI0ZWTACY" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T06:36:29.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-xGzdRJiUAN4ZPHPJz8g" version="12.4.8" type="github">
   <diagram id="YmkcQ1afavoasLZBue3q" name="Page-1">
     <mxGraphModel dx="1426" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="Tn2rkqjrL6w6c9bzbXvr-16" value="纠错方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="750" width="80" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="Tn2rkqjrL6w6c9bzbXvr-18" value="统计模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tn2rkqjrL6w6c9bzbXvr-18" value="分类模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1450" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
